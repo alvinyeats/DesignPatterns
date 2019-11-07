@@ -3,10 +3,10 @@ from print_banner import PrintBanner
 
 
 def main():
-    p = PrintBanner("Hello")
+    p = PrintBanner('Hello')
     p.print_strong()
     p.print_weak()
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
