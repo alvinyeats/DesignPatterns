@@ -2,7 +2,7 @@
 class Book:
 
     def __init__(self, name):
-        self._name = name
+        self.__name = name
 
     def get_name(self):
-        return self._name
+        return self.__name
