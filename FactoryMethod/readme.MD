@@ -13,4 +13,4 @@
 Product类和Factory类属于framework包。这两个类组成了生成实例的框架。
 IDCard类和IDCardFactory类负责实际的加工处理，它们属于idcard包
 
-main.py，测试文件，测试我们的书架程序
+main.py，测试文件，测试我们的工厂模式
